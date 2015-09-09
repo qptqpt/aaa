@@ -21,6 +21,7 @@
     
     [self say];
     [self sayHi];
+    //修改
 }
 
 - (void)say
